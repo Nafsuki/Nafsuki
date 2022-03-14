@@ -1,6 +1,7 @@
-### Hi there! Here is what I'm working on 👋
+### Hi I'm Natsuki 👩🏻‍🦰👋
 
 <!--
+<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="avatar image of Natsuki Yamaguchi">
 **Nafsuki/Nafsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 
