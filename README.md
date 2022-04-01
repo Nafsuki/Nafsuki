@@ -17,16 +17,17 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... 
 - 😄 Pronouns: ...
+- - I'm a Japanese girl currently living in Hamburg, GERMANY. Currently looking for a full-time job.
+- 🌱 I’m currently learning ... Next.js with TypeScript, GraphQL, React Native
+- 📫 How to reach me: ...
 - ⚡ Fun fact: ... I'm a Japanese girl currently living in Hamburg, GERMANY. Currently looking for a full-time job.
 
 
 <!-----Social Accounts------>
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
-- I'm a Japanese girl currently living in Hamburg, GERMANY. Currently looking for a full-time job.
-- 🌱 I’m currently learning ... Next.js with TypeScript, GraphQL, React Native
-- 📫 How to reach me: ...
+
 <a href="https://www.linkedin.com/in/natsuki-yamaguchi-a57455182/" size="300px">
-  <img src="https://github.com/Nafsuki/Nafsuki/blob/4f28858cbc239f50614d400d041bbb9a725ae382/Linkedin-logo.png" alt="linkedin logo" width="100" />
+  <img src="https://github.com/Nafsuki/Nafsuki/blob/4f28858cbc239f50614d400d041bbb9a725ae382/Linkedin-logo.png" alt="linkedin logo" width="80" />
 </a>
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
