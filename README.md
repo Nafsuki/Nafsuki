@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm a Japanese girl currently living in Hamburg, GERMANY. Currently looking for a full-time job.
 
-<!-----Social Accounts------>
 
+<!-----Social Accounts------>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/naveenkumar-gumaste/)](https://www.linkedin.com/in/naveenkumar-gumaste/) -->
+ 
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 <!-------------Projects---------------->
 ## Repository Overview :
