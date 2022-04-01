@@ -1,8 +1,8 @@
 ## Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰
 
-
-<img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsukiy_banner.png" alt="banner of Nafsuki">
-
+<a href="https://natsukiyamaguchi.com/">
+  <img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsukiy_banner.png" alt="banner of Nafsuki">
+</a>
 <!--
 
 **Nafsuki/Nafsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
