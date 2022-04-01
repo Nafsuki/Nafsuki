@@ -1,4 +1,4 @@
-## <img src="https://tenor.com/view/0529-light-flash-dreamhugo-shine-gif-14391127" width="25px">Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰
+## Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰
 
 
 <img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/profile.jpg" alt="avatar image of Natsuki Yamaguchi">
@@ -19,3 +19,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... I'm a Japanese girl currently living in Hamburg, GERMANY. Currently looking for a full-time job.
 
+<!-----Social Accounts------>
+
+
+<!-------------Projects---------------->
+## 
+<div>
+  <br>
+  <a href="https://github.com/Nafsuki/nextjs-tailwind-mapbox-art-gallery-website">
+    <img align='center' src='https://github-readme-stats.vercel.app/api/pin/?username=Nafsuki&repo=nextjs-tailwind-mapbox-art-gallery-website&theme=dark' />
+  </a>
+  </br>
+  <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
+</div>
