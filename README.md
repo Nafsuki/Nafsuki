@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 <!-----Social Accounts------>
-<a href="https://www.linkedin.com/in/natsuki-yamaguchi-a57455182/">
+<a href="https://www.linkedin.com/in/natsuki-yamaguchi-a57455182/" size="300px">
   <img src="https://github.com/Nafsuki/Nafsuki/blob/4f28858cbc239f50614d400d041bbb9a725ae382/Linkedin-logo.png" />
 </a>
  
