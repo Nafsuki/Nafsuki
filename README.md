@@ -32,3 +32,7 @@ Here are some ideas to get you started:
   </br>
   <hr style="height:2px;#8080ffborder-width:0;border-radius: 5px;color:gray;background-color:#8080ff">
 </div>
+
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Nafsuki=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
