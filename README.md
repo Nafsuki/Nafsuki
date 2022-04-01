@@ -1,7 +1,7 @@
 ## Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰
 
 
-<img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/profile.jpg" alt="avatar image of Natsuki Yamaguchi">
+<img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsuki_banner.png" alt="banner of Nafsuki">
 
 <!--
 
