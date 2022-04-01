@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 
 <!-----Social Accounts------>
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 <a href="https://www.linkedin.com/in/natsuki-yamaguchi-a57455182/" size="300px">
   <img src="https://github.com/Nafsuki/Nafsuki/blob/4f28858cbc239f50614d400d041bbb9a725ae382/Linkedin-logo.png" alt="linkedin logo" width="100" />
 </a>
