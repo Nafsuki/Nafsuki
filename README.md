@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
 ## <img src="https://tenor.com/view/0529-light-flash-dreamhugo-shine-gif-14391127" width="25px">Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
