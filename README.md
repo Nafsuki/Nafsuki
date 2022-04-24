@@ -1,4 +1,4 @@
-## Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰
+## Hello Everyone, I'm <strong>Natsuki</strong>👩🏻‍🦰 <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40">
 
 <a href="https://natsukiyamaguchi.com/">
   <img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsukiy_banner.png" alt="banner of Nafsuki">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  
 <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
-<h2 align="center">My Tools <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"></h2>
+<h2 align="center">My Tools <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"></h2>
 
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
