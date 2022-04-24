@@ -1,4 +1,4 @@
-## Hello Everyone, I'm <strong>Natsuki</strong> 👩🏻‍🦰🇯🇵 
+## Hello Everyone, I'm <strong>Natsuki</strong> 👩🏻‍🦰 🇯🇵 
 <!-- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> -->
 
 <a href="https://natsukiyamaguchi.com/">
