@@ -1,6 +1,9 @@
 ## Hello Everyone, I'm <strong>Natsuki</strong> 👩🏻‍🦰 🇯🇵 
 <!-- <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> -->
 
+[![Linkedin: nafsuki](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafsuki/)](https://www.linkedin.com/in/nafsuki/)
+![visitors](https://visitor-badge.glitch.me/badge?Nafsuki=Nafsuki&left_color=green&right_color=red)
+
 <a href="https://natsukiyamaguchi.com/">
   <img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsukiy_banner.png" alt="banner of Nafsuki">
 </a>
