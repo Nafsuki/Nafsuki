@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 
 <!-----Social Accounts------>
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+<!-- <hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
 
 <a href="https://www.linkedin.com/in/nafsuki/" size="300px">
   <img src="https://github.com/Nafsuki/Nafsuki/blob/4f28858cbc239f50614d400d041bbb9a725ae382/Linkedin-logo.png" alt="linkedin logo" width="80" />
 </a>
  
-<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff">
+<hr style="height:2px;border-width:1;border-radius: 5px;color:#8080ff;background-color:#8080ff"> -->
 
 <h2 align="center">My Tools 🖥</h2>
 <!-- <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> -->
