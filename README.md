@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nafsuki.Nafsuki)
 
 <a href="https://natsukiyamaguchi.com/">
-  <img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsukiy_banner.png" alt="banner of Nafsuki">
+  <img src="https://github.com/Nafsuki/Nafsuki/blob/main/natsuki-banner-new.png" alt="banner of Nafsuki">
 </a>
 <!--
 
