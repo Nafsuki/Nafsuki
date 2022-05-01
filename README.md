@@ -3,7 +3,6 @@
 
 [![Linkedin: nafsuki](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafsuki/)](https://www.linkedin.com/in/nafsuki/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nafsuki.Nafsuki)
-[natsukiyamaguchi.com](https://natsukiyamaguchi.com/)
 
 <a href="https://natsukiyamaguchi.com/">
   <img src="https://raw.githubusercontent.com/Nafsuki/Nafsuki/main/Nafsukiy_banner.png" alt="banner of Nafsuki">
