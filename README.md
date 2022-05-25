@@ -1,5 +1,5 @@
 ## Hello Everyone, I'm <strong>Natsuki</strong> 👩🏻‍🦰 🇯🇵 
-<!-- <img src="://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> -->
+<!-- <img src="//media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40"> -->
 
 [![Linkedin: nafsuki](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nafsuki/)](https://www.linkedin.com/in/nafsuki/)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Nafsuki.Nafsuki)
